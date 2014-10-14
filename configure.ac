@@ -64,16 +64,6 @@ AutoBouquetsMaker/src/Makefile
 AutoBouquetsMaker/src/scanner/Makefile
 AutoBouquetsMaker/custom/Makefile
 
-AudioEffect/Makefile
-AudioEffect/src/Makefile
-AudioEffect/meta/Makefile
-AudioEffect/po/Makefile
-
-Blindscan/Makefile
-Blindscan/src/Makefile
-Blindscan/meta/Makefile
-Blindscan/po/Makefile
-
 DLNABrowser/Makefile
 DLNABrowser/src/Makefile
 DLNABrowser/icons/Makefile
@@ -83,35 +73,11 @@ DLNAServer/Makefile
 DLNAServer/src/Makefile
 DLNAServer/meta/Makefile
 
-HbbTV/Makefile
-HbbTV/src/Makefile
-HbbTV/meta/Makefile
-HbbTV/po/Makefile
-
-MultiTransCodingSetup/Makefile
-MultiTransCodingSetup/src/Makefile
-MultiTransCodingSetup/meta/Makefile
-MultiTransCodingSetup/po/Makefile
-
 OnDemand/Makefile
 OnDemand/src/Makefile
 OnDemand/src/icons/Makefile
 OnDemand/meta/Makefile
 OnDemand/po/Makefile
-
-RemoteChannelStreamConverter/Makefile
-RemoteChannelStreamConverter/src/Makefile
-RemoteChannelStreamConverter/po/Makefile
-
-TempFanControl/Makefile
-TempFanControl/src/Makefile
-TempFanControl/meta/Makefile
-TempFanControl/po/Makefile
-
-TransCodingSetup/Makefile
-TransCodingSetup/src/Makefile
-TransCodingSetup/meta/Makefile
-TransCodingSetup/po/Makefile
 
 TunerServer/Makefile
 TunerServer/src/Makefile
@@ -122,13 +88,6 @@ StreamTV/Makefile
 StreamTV/src/Makefile
 StreamTV/meta/Makefile
 StreamTV/icons/Makefile
-
-WebBrowser/Makefile
-WebBrowser/src/Makefile
-WebBrowser/meta/Makefile
-WebBrowser/keymap/Makefile
-WebBrowser/icons/Makefile
-WebBrowser/po/Makefile
 
 WirelessAccessPoint/Makefile
 WirelessAccessPoint/src/Makefile
